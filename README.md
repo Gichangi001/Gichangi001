@@ -15,8 +15,9 @@
 <br />
 
 I'm a self-taught passionate FrontEnd developer from Kenya -KE
-**About me**
-
+<p>
+**ABOUT ME**
+</p>
 Hi! <br>
 I'm really excited to dive into the world of programming and start learning how to code. I've always been interested in technology and computers, and I can't wait to start solving real world problems and using code one line at a time.
 
