@@ -5,7 +5,7 @@
     <img style="width: 30%; height: 5%;" alt="Hello, I'm Gichangi. I do open source!" src="https://media.tenor.com/OzRlXe7tnuQAAAAC/infinity-loop.gif">
   </a>
 
-  I'm a self-taught passionate FrontEnd developer from Kenya -KE 
+  I'm a self-taught passionate Tech Guy  from Kenya -KE 
   <p>
 💫 About Me:
 I'm really excited to dive into the world of programming and start learning how to code. I've always been interested in technology and computers, and I can't wait to start solving real world problems and using code one line at a time.
