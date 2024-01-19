@@ -14,7 +14,7 @@ I'm really excited to dive into the world of programming and start learning how 
 - 📈 Built github-readme-stats, more to come
 
 - ❤️ I love learning,Networking and getting to building fun projects that solve real world issues
-- 🌱 I’m currently learning **Devops,Backend and security**
+- 🌱 I’m currently learning **cloud,Front-End Database systems and security**
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/alexander-gichangi-maina/)
 - Email- (<a href="mailto:alexandergichangi@gmail.com">here</a>)
 - Certifications [here](https://www.linkedin.com/in/alexander-gichangi-maina/details/certifications/)
